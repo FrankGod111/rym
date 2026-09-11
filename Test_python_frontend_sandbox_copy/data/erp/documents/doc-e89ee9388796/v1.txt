@@ -1,0 +1,3 @@
+# metadata off test
+
+ERP should not send doc_metadata by default.
